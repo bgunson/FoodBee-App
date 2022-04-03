@@ -1,3 +1,2 @@
-# CPSC-481-Project
+# FoodBee
 #### By: Anna Chaykovska , Bennett Gunson , Daniel Ricasata, Anay Bhutoria, Meriam Senouci
-test commit
